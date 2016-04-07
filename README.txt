@@ -1,7 +1,5 @@
 Decision Tree Classifier Using Movie Reviews
 
-To run: 
-
 Architecture
 
 My code consists of three main classes. A data class, attribute class, and decision tree class. 
