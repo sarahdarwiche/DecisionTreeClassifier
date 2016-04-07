@@ -1,0 +1,16 @@
+10 4
+playtennis 2 yes no
+outlook 3 sunny overcast rain
+temperature 3 hot mild cool
+humidity 2 high normal
+wind 2 weak strong
+sunny hot high weak yes
+sunny cool high strong yes
+sunny hot normal strong yes
+rain mild normal strong yes
+rain mild normal weak yes
+rain hot normal strong no
+overcast cool normal strong yes
+overcast mild high weak yes
+sunny cool high weak yes
+rain mild normal weak yes

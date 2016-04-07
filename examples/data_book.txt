@@ -1,0 +1,24 @@
+12 10
+willwait 2 yes no
+alt 2 no yes
+bar 2 no yes
+fri 2 no yes
+hun 2 no yes
+pat 3 none some full
+price 3 $ $$ $$$
+rain 2 no yes
+res 2 no yes
+type 4 french italian thai burger
+est 4 0-10 10-30 30-60 >60
+yes no no yes some $$$ no yes french 0-10 yes
+yes no no yes full $ no no thai 30-60 no
+no yes no no some $ no no burger 0-10 yes
+yes no yes yes full $ yes no thai 10-30 yes
+yes no yes no full $$$ no yes french >60 no
+no yes no yes some $$ yes yes italian 0-10 yes
+no yes no no none $ yes no burger 0-10 no
+no no no yes some $$ yes yes thai 0-10 yes
+no yes yes no full $ yes no burger >60 no
+yes yes yes yes full $$$ no yes italian 10-30 no
+no no no no none $ no no thai 0-10 no
+yes yes yes yes full $ no no burger 30-60 yes
