@@ -44,3 +44,8 @@ Weaknesses
 One of the weaknesses my program has is the list of attributes is fixed and not determined by the training data. 
 Depending on the scale and thoroughness of the data this could result in worse performance
 
+To Run
+For C/C++ :
+>>make
+>> ./DecisionTreeClassifier < train.txt testing.txt
+
